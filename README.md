@@ -9,10 +9,11 @@ Para poder usar este proyecto, sigue estos pasos:
    - Selecciona "Download ZIP" para descargar todo el código del proyecto en tu computadora.
 
 2. **Ejecuta el Proyecto:**
+   - Deberas tener instalado Java 17.0.10 2024-01-16 LTS, Java(TM) SE Runtime Environment (build 17.0.10+11-LTS-240)
    - Abre el archivo `src/com/bogdan/alura/principal/Principal.java` en tu IDE Java preferido.
    - Ejecuta el archivo `Principal.java`.
 
-3. **Sigue las Instrucciones:**
+4. **Sigue las Instrucciones:**
    - Sigue las instrucciones que aparecerán en la consola para convertir entre diferentes monedas.
    
 ¡Listo! Ahora puedes usar este proyecto para realizar conversiones de moneda de manera fácil y rápida.
