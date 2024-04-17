@@ -1,5 +1,3 @@
-![historialCambios](https://github.com/BogdanRivera/Conversor-De-Monedas-Java/assets/121648408/29967a33-90d2-423e-a3d3-1a7924fb1a79)# Conversor de Monedas Java
-
 Este es un proyecto de Java para convertir entre diferentes monedas utilizando una API externa. Parte del proyecto final de la primera formación de desarrollo backend de Alura Latam y Oracle. 
 
 ## Instrucciones de Uso
