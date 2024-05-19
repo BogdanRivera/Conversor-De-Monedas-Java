@@ -1,7 +1,8 @@
 <h1 align="center"> Conversor de monedas App </h1>
 
+
 <p align="center">
-  <img src="https://github.com/BogdanRivera/Conversor-De-Monedas-Java/assets/121648408/07a29f8e-316a-4051-b39c-89730d908120" alt="Logo proyecto">
+  <img src="https://github.com/BogdanRivera/Conversor-De-Monedas-Java/assets/121648408/3df797a3-9c4f-4575-9c49-b4d01455211b" alt="Logo proyecto">
 </p>
 
    <p align="center">
