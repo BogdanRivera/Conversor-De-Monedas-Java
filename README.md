@@ -1,3 +1,13 @@
+<h1 align="center"> Conversor de monedas App </h1>
+
+<p align="center">
+  <img src="https://github.com/BogdanRivera/Conversor-De-Monedas-Java/assets/121648408/07a29f8e-316a-4051-b39c-89730d908120" alt="Logo proyecto">
+</p>
+
+   <p align="center">
+   <img src="https://img.shields.io/badge/STATUS-FINALIZADO-green">
+   </p>
+
 Este es un proyecto de Java para convertir entre diferentes monedas utilizando una API externa. Parte del proyecto final de la primera formación de desarrollo backend de Alura Latam y Oracle. 
 
 ## Instrucciones de Uso
